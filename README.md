@@ -76,7 +76,7 @@ From MycoBrain V1 schematic:
 | DIO1          | GPIO 14                    |
 | DIO2          | GPIO 11                    |
 | BUSY          | GPIO 10                    |
-| RESET         | Not wired (RadioLib NC)    |
+| RESET         | GPOI 7                     |
 
 This mapping is used by Side‑B and Gateway firmware.
 
